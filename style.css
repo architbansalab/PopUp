@@ -1,0 +1,19 @@
+#box{
+    background-color:bisque;
+    height: 300px;
+    width:700px;
+    visibility: hidden;
+}
+
+body{
+    background-color: aqua;
+}
+
+#box.show{
+    visibility: visible;
+}
+
+i{
+    margin-top:15px;
+    float: right;
+}
